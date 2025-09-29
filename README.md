@@ -14,7 +14,7 @@ The project includes:
 week1/
 ├── venv/                   # Python virtual environment folder
 ├── requirements.txt        # Project dependencies
-├── abalone.pkl             # Saved trained CatBoost model (pickle)
+├── catboost_abalone_model.pkl             # Saved trained CatBoost+OPTUS model (pickle)
 ├── abalone.ipynb           # Jupyter notebook with full analysis and modeling
 ├── Abalone_dataset(Data)/  # Folder containing raw dataset files (e.g., CSV)
 
